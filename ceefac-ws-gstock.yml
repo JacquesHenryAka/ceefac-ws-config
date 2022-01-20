@@ -18,8 +18,8 @@ spring:
       ddl-auto: update
   datasource:
     url: jdbc:mysql://localhost:3306/ceefac_stocks
-    username: sigec
-    password: Sigec@Ceenet2020
+    username: root
+    password: c33net@2020
 
 
 logging:
